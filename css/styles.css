@@ -120,10 +120,12 @@ body{
 .bo{
   color:#ef8172;
   margin-bottom: 1rem;
+  font-size:3rem;
 }
 .whitey{
   color: #8f8f8f;
   margin-bottom: 30px;
+  font-size:2rem;
 }
 
 #features{
