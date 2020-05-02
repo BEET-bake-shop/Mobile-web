@@ -13,14 +13,17 @@ padding: 0;
 .mee{
   background-color: #b08d57;
   text-align: center;
+  font-size:4rem;
 }
 .me{
   background-color: silver;
   text-align: center;
+  font-size:4rem;
 }
 .mo{
   background-color: 	#CFB53B;
   text-align: center;
+  font-size:4rem;
 }
 #title{
   background-color: #ff4c68;
@@ -174,6 +177,7 @@ h2{
   .noob{
     background-color:#b87333;
     text-align: center;
+    font-size:4rem;
   }
   .noobius{
     color: black;
@@ -216,10 +220,14 @@ h2{
 .h3title{
   color: white;
   font-family:" Montserrat-black","sans-serif";
-  font-size:3rem;
+  font-size:4rem;
   padding-top: 40px;
 }
 .soc-net{
   margin-right: 20px;
 
+}
+.nav-link{
+  font-size:4rem;
+  
 }
