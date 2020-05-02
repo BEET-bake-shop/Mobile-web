@@ -13,17 +13,17 @@ padding: 0;
 .mee{
   background-color: #b08d57;
   text-align: center;
-  font-size:4rem;
+  font-size:6rem;
 }
 .me{
   background-color: silver;
   text-align: center;
-  font-size:4rem;
+  font-size:6rem;
 }
 .mo{
   background-color: 	#CFB53B;
   text-align: center;
-  font-size:4rem;
+  font-size:6rem;
 }
 #title{
   background-color: #ff4c68;
@@ -123,12 +123,12 @@ body{
 .bo{
   color:#ef8172;
   margin-bottom: 1rem;
-  font-size:3rem;
+  font-size:5rem;
 }
 .whitey{
   color: #8f8f8f;
   margin-bottom: 30px;
-  font-size:2rem;
+  font-size:3rem;
 }
 
 #features{
@@ -177,7 +177,7 @@ h2{
   .noob{
     background-color:#b87333;
     text-align: center;
-    font-size:4rem;
+    font-size:6rem;
   }
   .noobius{
     color: black;
